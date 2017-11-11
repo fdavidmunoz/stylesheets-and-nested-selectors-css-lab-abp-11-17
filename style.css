@@ -17,7 +17,7 @@ nav ul {
 }
 nav ul li{
   margin-left: 10px;
-
+  display: inline;
 }
 body {
   padding: 0 30px 0 30px;
