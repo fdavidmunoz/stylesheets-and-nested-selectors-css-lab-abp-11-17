@@ -15,6 +15,10 @@ nav ul {
   margin-right: 0px;
   margin-left: 0px;
 }
+nav ul li{
+  margin-left: 10px;
+  
+}
 body {
   padding: 0 30px 0 30px;
 }
